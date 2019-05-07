@@ -1,4 +1,4 @@
-I Created two projects
+I created two projects
 
 1. AdvanceCodeTest is a console application
 
@@ -45,4 +45,5 @@ Your goal is to find the total score for all groups in your input. Each group is
 {{<ab>},{<ab>},{<ab>},{<ab>}}, score of 1 + 2 + 2 + 2 + 2 = 9.
 {{<!!>},{<!!>},{<!!>},{<!!>}}, score of 1 + 2 + 2 + 2 + 2 = 9.
 {{<a!>},{<a!>},{<a!>},{<ab>}}, score of 1 + 2 = 3.
+  
 What is the total score for all groups in your input?
